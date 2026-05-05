@@ -1,0 +1,145 @@
+GENEL ÖZET
+================================================================================
+Replikasyon sayısı                 : 15
+Montajdan çıkan bitmiş ürün ort.   : 399897.000
+Standart sapma                     : 0.000
+Min / Max                          : 399897 / 399897
+Ortalama simülasyon bitiş zamanı   : 6300000.000
+Rapor klasörü                      : C:\Users\Buğratan Kurt\simulation_outputs_20260505_143938
+
+AKIŞ BAZLI SONUÇLAR
+--------------------------------------------------------------------------------
+
+• P012 (create)
+  Oluşturulan/Başlatılan ort. : 602933.00
+  Depoya iyi parça ort.       : 443416.00
+  Fire ort.                   : 9136.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1339465.85 sn
+  Ortalama queue time         : 1339417.10 sn
+
+• P021 (create)
+  Oluşturulan/Başlatılan ort. : 602134.00
+  Depoya iyi parça ort.       : 443172.00
+  Fire ort.                   : 8979.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1340162.88 sn
+  Ortalama queue time         : 1340125.69 sn
+
+• P022 (create)
+  Oluşturulan/Başlatılan ort. : 602997.00
+  Depoya iyi parça ort.       : 403842.00
+  Fire ort.                   : 12420.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1484512.82 sn
+  Ortalama queue time         : 1484394.07 sn
+
+• P023 (create)
+  Oluşturulan/Başlatılan ort. : 603032.00
+  Depoya iyi parça ort.       : 444008.00
+  Fire ort.                   : 8995.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1340579.58 sn
+  Ortalama queue time         : 1340543.67 sn
+
+• P024 (create)
+  Oluşturulan/Başlatılan ort. : 601821.00
+  Depoya iyi parça ort.       : 554490.00
+  Fire ort.                   : 11302.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 885913.72 sn
+  Ortalama queue time         : 885884.66 sn
+
+• P025 (create)
+  Oluşturulan/Başlatılan ort. : 602323.00
+  Depoya iyi parça ort.       : 405414.00
+  Fire ort.                   : 8256.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1496264.59 sn
+  Ortalama queue time         : 1496212.12 sn
+
+• P026 (create)
+  Oluşturulan/Başlatılan ort. : 602693.00
+  Depoya iyi parça ort.       : 405430.00
+  Fire ort.                   : 8160.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1497969.65 sn
+  Ortalama queue time         : 1497926.41 sn
+
+• P032 (create)
+  Oluşturulan/Başlatılan ort. : 602881.00
+  Depoya iyi parça ort.       : 590940.00
+  Fire ort.                   : 11941.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 334169.32 sn
+  Ortalama queue time         : 334144.60 sn
+
+• P027 (create)
+  Oluşturulan/Başlatılan ort. : 602761.00
+  Depoya iyi parça ort.       : 407269.00
+  Fire ort.                   : 6145.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 1497039.43 sn
+  Ortalama queue time         : 1497010.92 sn
+
+• P011 (create)
+  Oluşturulan/Başlatılan ort. : 603189.00
+  Depoya iyi parça ort.       : 594158.00
+  Fire ort.                   : 9031.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 5.07 sn
+  Ortalama queue time         : 0.00 sn
+
+• P013 (create)
+  Oluşturulan/Başlatılan ort. : 603510.00
+  Depoya iyi parça ort.       : 594494.00
+  Fire ort.                   : 9016.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 5.07 sn
+  Ortalama queue time         : 0.00 sn
+
+• P031 (create)
+  Oluşturulan/Başlatılan ort. : 601490.00
+  Depoya iyi parça ort.       : 592527.00
+  Fire ort.                   : 8963.00
+  Bitmiş ürün ort.            : 0.00
+  Ortalama cycle time         : 5.07 sn
+  Ortalama queue time         : 0.00 sn
+
+• U Montaj Hattı (depot)
+  Oluşturulan/Başlatılan ort. : 403842.00
+  Depoya iyi parça ort.       : 0.00
+  Fire ort.                   : 3943.00
+  Bitmiş ürün ort.            : 399897.00
+  Ortalama cycle time         : 39.90 sn
+  Ortalama queue time         : 0.00 sn
+
+KAYNAK KULLANIMI
+--------------------------------------------------------------------------------
+100T Mechanical Press                  cap=3   util=100.00% req=1808099.00 avg_q=1006242.918 sn
+160T Mechanical Press                  cap=2   util= 50.00% req=602997.00 avg_q=1024738.583 sn
+60T Compact Press                      cap=1   util= 87.08% req=602881.00 avg_q=334144.605 sn
+Heat Treatment – Hardening             cap=2   util= 60.02% req=416267.00 avg_q=  0.000 sn
+Heat Treatment – Tempering             cap=2   util= 60.01% req=416266.00 avg_q=  0.000 sn
+Surface Grinder                        cap=1   util= 29.95% req=416263.00 avg_q=  0.000 sn
+CNC Lathe                              cap=1   util=100.00% req=601821.00 avg_q=832858.532 sn
+CNC Spring Coiling Machine             cap=3   util= 44.85% req=1807777.00 avg_q=  0.696 sn
+Stress Relief Oven                     cap=2   util=100.00% req=1807777.00 avg_q=1027428.620 sn
+hardened progressive die set           cap=1   util=100.00% req=416270.00 avg_q= 15.134 sn
+
+DEPO KALANI
+--------------------------------------------------------------------------------
+P011                 remaining_avg=190315.00
+P012                 remaining_avg=39573.00
+P013                 remaining_avg=190651.00
+P021                 remaining_avg=39329.00
+P022                 remaining_avg=0.00
+P023                 remaining_avg=40165.00
+P024                 remaining_avg=150647.00
+P025                 remaining_avg=1571.00
+P026                 remaining_avg=1587.00
+P027                 remaining_avg=3426.00
+P031                 remaining_avg=188684.00
+P032                 remaining_avg=187097.00
+
+Not: Kaynak akışların depoya gönderdiği parçalar nihai ürün sayısına dahil edilmez. Nihai ürün sayısı montaj/depo akışının Dispose çıktısıdır.
